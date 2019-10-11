@@ -9,6 +9,8 @@ namespace Helow_world
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hellow_Git");
+            Console.ReadKey();
         }
     }
 }
